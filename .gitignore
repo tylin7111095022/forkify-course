@@ -1,0 +1,10 @@
+
+.parcel-cache
+
+node_modules
+
+package-lock.json
+
+.prettierrc
+
+dist
